@@ -28,3 +28,8 @@ body {
   text-decoration: none;
    text-align: left;
 }
+@media (max-width:768px) {
+  .img-space{
+    text-align: center;
+  }
+}
