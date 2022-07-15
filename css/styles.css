@@ -1,0 +1,30 @@
+body {
+  background-color: #756A9E;
+  /* text-align: center; */
+}
+
+.card-background {
+  background-color: #D3CCEB;
+}
+
+.login-background {
+  background-color: #C4D7E0;
+}
+
+.card-space {
+  width: 50%;
+  margin: 25% 20%;
+}
+
+.img-space {
+
+  width: 40%;
+  height: 40%;
+  margin-left: 20%;
+  margin-top: 25%;
+}
+
+.links{
+  text-decoration: none;
+   text-align: left;
+}
